@@ -1,0 +1,42 @@
+.text-end1{
+    margin-left: 5%;
+    margin-right: 0%;
+    text-align: center;  
+    /* width:8rem;   */
+}
+.text-end2{
+    margin-left: 0%;
+    margin-right: 5%;
+    text-align: center;  
+    /* width:8rem;   */
+}
+.container-fluid{
+    margin-left: 2%;
+}
+header{
+    font-size: 150%;
+}
+form.d-flex input, form.d-flex button, .text-end1 button, .text-end2 button{
+    font-size: 65%;
+}
+.nav-item.show.dropdown .dropdown-item{
+    font-size: 100%;
+}
+
+ /* button.btn{ */
+    /* position: relative; */
+    /* top : 50%; */
+    /* height: 70%; */
+    /* width: 7rem; */
+    /* margin: 0%; */
+    /* display: block; */
+/* }  */
+
+
+/* .col-md-5{
+    padding: 0%;
+} */
+
+#login, #signup{
+    display: block;
+}
