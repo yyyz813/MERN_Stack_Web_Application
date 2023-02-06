@@ -1,0 +1,98 @@
+[{
+  "_id": 0,
+  "name": "Munchlax",
+  "subject": "Nutriology",
+  "description": "Eats a lot.",
+  "rating": 4,
+  "available": true,
+  "img": "/img/Munchlax.jpg",
+  "comment": [
+    "5: adsf",
+    "4: liked",
+    "1: he is not good"
+  ]
+},{
+  "_id": 1,
+  "name": "Pikachu",
+  "subject": "Electrodynamics",
+  "description": "Shocks people.",
+  "rating": 4,
+  "available": false,
+  "img": "/img/Pikachu.jpg",
+  "comment": [
+    ""
+  ]
+},{
+  "_id": 2,
+  "name": "Charmander",
+  "subject": "Thermodynamics",
+  "description": "Heats up everything.",
+  "rating": 3.6666666666666665,
+  "available": true,
+  "img": "/img/Charmander.jpg",
+  "comment": [
+    "",
+    "1: he is good",
+    "3: he is not that good"
+  ]
+},{
+  "_id": 3,
+  "name": "Squirtle",
+  "subject": "Aquatics",
+  "description": "Quenches fires.",
+  "rating": 4,
+  "available": true,
+  "img": "/img/Squirtle.jpg"
+},{
+  "_id": 4,
+  "name": "Jigglypuff",
+  "subject": "Acoustics",
+  "description": "Likes singing.",
+  "rating": 5,
+  "available": true,
+  "img": "/img/Jigglypuff.jpg"
+},{
+  "_id": {
+    "$oid": "6276e64fdb762457f0b53567"
+  },
+  "username": "2",
+  "email": "2@2.com",
+  "password": "$2b$10$jBjL2vxgW6LGhF6yds8QK.jzh5p0z4GBFu7njYcJEQhOwSHZ/8Iwq",
+  "name": "t2",
+  "subject": "tt",
+  "description": "ttt",
+  "rating": 0,
+  "available": true,
+  "img": "/img/"
+},{
+  "_id": {
+    "$oid": "6277355da4e7435020f4e291"
+  },
+  "username": "8",
+  "email": "8@8.com",
+  "password": "$2b$10$s5iJ/kImGfWq.UG11dqSaubmPWKviPM/ITinBf/cQK08w9eldARb2",
+  "name": "8",
+  "subject": "",
+  "description": "",
+  "rating": 3.1,
+  "available": true,
+  "img": "/img/qiuqiu.jpg",
+  "comment": [
+    "",
+    "1: 123"
+  ]
+},{
+  "_id": {
+    "$oid": "627c723488fa0a69d09d5905"
+  },
+  "username": "11",
+  "email": "11@11.com",
+  "password": "$2b$10$giBb2ItUHbV0qU/r/QTEWe8As5pecS.MHhqy4GcJ7Fm4qNJFG2.2a",
+  "name": "11",
+  "subject": "subject 2",
+  "description": "description 2",
+  "rating": 0,
+  "available": true,
+  "img": "/img/masterball.png",
+  "comment": []
+}]

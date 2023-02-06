@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6276c508b0d6853460f962ea"
+  },
+  "username": "7",
+  "email": "7@7.com",
+  "password": "$2b$10$wo.WT.hktXWkHv6IKCjhD.J9ClhanJfONXwozgbUcgs.4J0asTdY."
+},{
+  "_id": {
+    "$oid": "6276c5bc7246434b60e8314e"
+  },
+  "username": "123",
+  "email": "123@123.com",
+  "password": "$2b$10$QcyY0keu7OBxOEUku.mmFuB/LBOLKUaqkT0yOCSsrLiTsHhTWQTYS"
+},{
+  "_id": {
+    "$oid": "6276d8f87246434b60e83153"
+  },
+  "username": "4",
+  "email": "4@4.com",
+  "password": "$2b$10$fV/y/At5dUtvVY7wxo7cM.auBDcqCq4BF1wm5LDpMNUCK3oOa5aPi",
+  "favlist": []
+},{
+  "_id": {
+    "$oid": "6276d9547246434b60e83154"
+  },
+  "username": "5",
+  "email": "5@5.com",
+  "password": "$2b$10$V4X1EaCawpjg5B36Toah1OFbKYst24lGvq5JoZyQ3U.mBSm85oiZy"
+},{
+  "_id": {
+    "$oid": "62772d0cb7d4bc199cacdc2a"
+  },
+  "username": "0",
+  "email": "0@0.com",
+  "password": "$2b$10$ZLdyd4XO0ZlhhfRtjm1ZhubPM.2bggAELc39bLJpORgOLNC4Gfhie"
+},{
+  "_id": {
+    "$oid": "627b182388fa0a69d09d58e4"
+  },
+  "username": "1",
+  "email": "1@1.com",
+  "password": "$2b$10$fhktvkWMAlQ.3r3U6kscBu2lNBZsa6NSYR9jzrA1qAZJLxFKHEgQG",
+  "favlist": [
+    "Munchlax",
+    "Pikachu"
+  ]
+},{
+  "_id": {
+    "$oid": "627b282388fa0a69d09d58f4"
+  },
+  "username": "2",
+  "email": "2@2.com",
+  "password": "$2b$10$KLv8M8g2zI1d2K51X5Q3Z.a1yNsauaSaxOpt9hhzBqaaNPuNGDfDO"
+},{
+  "_id": {
+    "$oid": "627c709688fa0a69d09d5902"
+  },
+  "username": "3",
+  "email": "3@3.com",
+  "password": "$2b$10$jWPioGD/D.NyZN0AGhgwvuP1wQLbHAjAsB8oZYUDYsltcPniN5znu",
+  "favlist": [
+    "Munchlax",
+    "Pikachu"
+  ]
+}]
